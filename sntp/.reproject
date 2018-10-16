@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<BaseSetting BeLite="false" Profile="standard" ProjectType="SylixOSAppProject" RealEvoVer="3.0.6 Experience"/>
+<OutputSetting>
+<OutputPath Name="Output" Path="Release:Debug" TreeNode="Output"/>
+<OutputPath Name="Debug" Path="Debug" TreeNode="Debug"/>
+<OutputPath Name="Release" Path="Release" TreeNode="Release"/>
+</OutputSetting>
+<UploadPath>
+<PairItem key="$(WORKSPACE_sntp)\$(Output)\strip\sntp" value="/apps/sntp/sntp"/>
+<PairItem key="$(WORKSPACE_sntp)\$(Output)\strip\sntp_cfg.ini" value="/etc/sntp_cfg.ini"/>
+</UploadPath>
+<BuildSetting CoustomCfgMakefile="true" NeedReBuild="true" NotScanSourceFile="false"/>
+<DeviceSetting DevName="10.4.0.151" WorkDir="/apps/sntp"/>
+</SylixOSSetting>
