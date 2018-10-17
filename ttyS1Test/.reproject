@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="GB2312" standalone="no"?>
+<SylixOSSetting>
+<BaseSetting Profile="standard" ProjectType="SylixOSAppProject" RealEvoVer="3.8.3 Ultimate"/>
+<OutputSetting>
+<OutputPath Name="Output" Path="Release:Debug" TreeNode="Output"/>
+<OutputPath Name="Debug" Path="Debug" TreeNode="Debug"/>
+<OutputPath Name="Release" Path="Release" TreeNode="Release"/>
+</OutputSetting>
+<BuildSetting CoustomCfgMakefile="false" NeedReBuild="false" NotScanSourceFile="false"/>
+<DeviceSetting DevName="10.4.0.72" WorkDir="/apps/ttyS1Test"/>
+<UploadPath>
+<PairItem key="$(WORKSPACE_ttyS1Test)/$(Output)/strip/ttyS1Test" value="/apps/ttyS1Test/ttyS1Test"/>
+</UploadPath>
+</SylixOSSetting>
