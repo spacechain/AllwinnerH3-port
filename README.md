@@ -1,3 +1,3 @@
 # AllwinnerH3-port
 
-SpaceChainOs port in the embbed platform.
+SpaceChainOs port on the embbed platform.
