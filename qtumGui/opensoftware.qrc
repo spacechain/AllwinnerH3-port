@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/open.png</file>
+    </qresource>
+    <qresource prefix="/icon">
+        <file>E:/project/H3/source/QRcTest/image/blue.png</file>
+        <file>E:/project/H3/source/QRcTest/image/p.png</file>
+        <file>E:/project/H3/source/QRcTest/image/red.png</file>
+    </qresource>
+</RCC>
