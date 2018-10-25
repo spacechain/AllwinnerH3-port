@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 3.4.0, 2018-10-25T14:19:13. -->
+<!-- Written by QtCreator 3.4.0, 2018-09-17T17:56:35. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{fe12983c-7c33-45d1-82e4-faf808c2b86e}</value>
+  <value type="QByteArray">{aae2f8b0-56e2-47dc-9571-1d2c2e27adf3}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -210,7 +210,7 @@
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.0">
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">运行 QRcTest 在 SylixOS XXX 设备</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">SylixOS.RunConfig.IDE:/githubemp/AllwinnerH3-port/qtumGui/QRcTest.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">SylixOS.RunConfig.IDE:/Custom_SPC/code/spc_H3_qtum/qtumGui/QRcTest.pro</value>
     <value type="uint" key="RunConfiguration.QmlDebugServerPort">3768</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
